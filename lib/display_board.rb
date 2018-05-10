@@ -1,6 +1,3 @@
-board1 = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
-board2 = ["X", " ", "O", " ", "O", "X", "X", " ", "O"]
-
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
   puts "-----------"
